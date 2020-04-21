@@ -1,0 +1,25 @@
+{
+  "name": "tdd-todo",
+  "version": "1.0.0",
+  "description": "TDD Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosmartin/tdd-todo.git"
+  },
+  "keywords": [
+    "TDD"
+  ],
+  "author": "Martin Macharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosmartin/tdd-todo/issues"
+  },
+  "homepage": "https://github.com/mosmartin/tdd-todo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
